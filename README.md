@@ -69,9 +69,21 @@
 
 # 📈 GitHub Stats (Improved Design)
 
+### 📊 GitHub Profile Summary
 
-  <p><img src="https://github-readme-stats.vercel.app/api?username=shivrajgn7&show_icons=true&theme=dark&hide_border=true" height="160" /></p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajgn7&layout=compact&theme=dark&hide_border=true" height="160" />
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivrajgn7&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivrajgn7&theme=tokyonight" height="140" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivrajgn7&theme=tokyonight" height="140" />
+</p>
+
+<p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shivrajgn7&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivrajgn7&theme=tokyonight&utcOffset=5.5" height="150" />
+</p>
+
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajgn7&" alt="shivrajgn7" /></p>
 
