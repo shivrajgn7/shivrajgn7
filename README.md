@@ -70,9 +70,8 @@
 # 📈 GitHub Stats (Improved Design)
 
 
-  <img src="https://github-readme-stats.vercel.app/api?username=shivrajgn7&show_icons=true&theme=dark&hide_border=true" height="160" />
+  <p><img src="https://github-readme-stats.vercel.app/api?username=shivrajgn7&show_icons=true&theme=dark&hide_border=true" height="160" /></p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivrajgn7&layout=compact&theme=dark&hide_border=true" height="160" />
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajgn7&" alt="shivrajgn7" /></p>
 
