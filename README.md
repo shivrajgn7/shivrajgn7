@@ -85,7 +85,9 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajgn7&" alt="shivrajgn7" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivrajgn7&theme=highcontrast&hide_border=true" />
+</p>
 
 
 
