@@ -87,8 +87,9 @@ https://github-readme-streak-stats.vercel.app/?user=shivrajgn7&hide_border=true
 
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=shivrajgn7&hide_border=true" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=shivrajgn7&theme=highcontrast&hide_border=true" />
 </p>
+>
 
 
 
