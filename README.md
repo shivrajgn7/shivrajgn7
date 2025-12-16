@@ -83,7 +83,6 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shivrajgn7&theme=tokyonight&utcOffset=5.5" height="150" />
 </p>
 
-https://github-readme-streak-stats.vercel.app/?user=shivrajgn7&hide_border=true
 
 
 <p style="text-align:center;">
