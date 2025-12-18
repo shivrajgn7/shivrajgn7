@@ -9,7 +9,7 @@
 
 ## 👇 About Me
 
-- 🌱 I have skill set of **Spring Boot, Advanced Java, SQL, JPA/Hibernate, JSP/Servlets, Validation API, Lombok**
+- 🌱 I have skill  set of **Spring Boot, Advanced Java, SQL, JPA/Hibernate, JSP/Servlets, Validation API, Lombok**
 - 💬 Ask me about **Java, Spring Boot, REST APIs, Hibernate, JDBC, MySQL, JavaScript**
 - 📌 Strong in **backend engineering**, API development, database design and clean architecture
 - 📫 Reach me at **shivrajgn7@gmail.com**
