@@ -85,9 +85,7 @@
 
 
 
-<p style="text-align:center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivrajgn7&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
+
 
 
 
