@@ -3,7 +3,7 @@
 <h1 align ="center">Hi 👋, I'm Shivaraj</h1>
 <h3 align="center">Passionate Software Developer from India</h3>
 
-<img align="right" alt="coding" width="420" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
+<img align="right" alt="coding"  width="420" src="https://i.pinimg.com/originals/ed/ec/57/edec57b70e496d6310c0ba533909acb2.gif">
 
 ---
 
